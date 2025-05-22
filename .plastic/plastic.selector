@@ -1,0 +1,4 @@
+repository "stress scale/stress scale@11270592653645@cloud"
+  path "/"
+    br "/main"
+    co "/main"
